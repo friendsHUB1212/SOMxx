@@ -51,7 +51,7 @@
 <body>
   <div class="container">
     <h2>Login</h2>
-    <form action="#">
+    <form action="home.html">
       <label for="email">Email:</label>
       <input type="text" id="email" name="email" placeholder="Enter your email address">
 
