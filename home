@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Site Menu Bar</title>
+</head>
+<body>
+
+<div style="background-color: #333; padding: 10px;">
+    <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li style="display: inline-block; margin-right: 20px;">
+            <a href="#" style="color: white; text-decoration: none;">Home</a>
+        </li>
+        <li style="display: inline-block; margin-right: 20px;">
+            <a href="#" style="color: white; text-decoration: none;">About</a>
+        </li>
+        <li style="display: inline-block; margin-right: 20px;">
+            <a href="#" style="color: white; text-decoration: none;">Services</a>
+        </li>
+        <li style="display: inline-block; margin-right: 20px;">
+            <a href="#" style="color: white; text-decoration: none;">Contact</a>
+        </li>
+    </ul>
+</div>
+
+</body>
+</html>
