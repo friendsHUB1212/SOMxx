@@ -1,5 +1,3 @@
-# SOMxx
-
 <html>
 <head>
   <title>🛰️ SOMXX--Login Page</title>
@@ -50,7 +48,7 @@
 </head>
 <body>
   <div class="container">
-    <h2>Login</h2>
+    <h2>🛰️Login</h2>
     <form action="home.html">
       <label for="email">Email:</label>
       <input type="text" id="email" name="email" placeholder="Enter your email address">
