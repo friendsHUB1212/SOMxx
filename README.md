@@ -47,9 +47,12 @@
   </style>
 </head>
 <body>
+
+HELLO 
+  
   <div class="container">
     <h2>🛰️Login</h2>
-    <form action="home.html">
+    <form action="home.html" method="post">
       <label for="email">Email:</label>
       <input type="text" id="email" name="email" placeholder="Enter your email address">
 
@@ -60,12 +63,5 @@
     </form>
   </div>
 
-
-
-
-
-
-
-  
 </body>
 </html>
